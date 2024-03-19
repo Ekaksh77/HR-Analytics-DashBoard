@@ -1,5 +1,8 @@
 # HR-Analytics-DashBoard
 
+![HR](https://github.com/Ekaksh77/HR-Analytics-DashBoard/assets/137069741/e6f286a1-a75f-4e43-babd-a51594dcab9e)
+
+
 Dash Board:
 A. KPI : 1. Overall Employees
 2. Attrition
